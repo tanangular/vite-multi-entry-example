@@ -1,6 +1,6 @@
 {
-  "name": "vite107",
-  "version": "0.0.0",
+  "name": "vite-multi-entry",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
